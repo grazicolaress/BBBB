@@ -152,6 +152,12 @@ Aluno do Curso Superior de Tecnologia em Redes de Computadores – Turma 2024
 **Currículo Lattes:** [http://lattes.cnpq.br/7389020554932681](http://lattes.cnpq.br/7389020554932681)  
 **GitHub:** [@usuario](https://github.com/usuario)
 
+#### Ryan Carvalho Galvão – Colaborador  
+Aluno do Curso Superior de Tecnologia em Redes de Computadores – Turma 2024  
+**Currículo Lattes:** [http://lattes.cnpq.br/7389020554932681](http://lattes.cnpq.br/7389020554932681)  
+**GitHub:** [@usuario](https://github.com/usuario)
+
+
 #### Ryan Ribeiro Martins – Colaborador  
 Aluno do Curso Superior de Tecnologia em Redes de Computadores – Turma 2024  
 **Currículo Lattes:** [http://lattes.cnpq.br/2888175208835434](http://lattes.cnpq.br/2888175208835434)  
