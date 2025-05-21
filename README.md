@@ -59,7 +59,6 @@ Este projeto investiga a aplicação de tecnologias de automação de comunicaç
 - Python
 - Linux (Ubuntu-based)
 - Whatsapp
-- Plataforma Web (HTML/CSS/JS)
 - link para um conteiner docker para subir a plataforma completa (COLOCAR NOS CONTEÚDOS DOS CÓDIGOS DO GITHUB)
 - link para funcionalidades importantes
 
